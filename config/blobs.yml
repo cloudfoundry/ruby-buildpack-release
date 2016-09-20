@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby_buildpack-cached-v1.6.24.zip:
-  object_id: b28f4ff6-e783-4d4c-a1bb-91b3e2cdd2e9
-  sha: 04ba93de0f26a2b6c6b568aacee6aa5ffc5571a4
-  size: 273555534
+ruby-buildpack/ruby_buildpack-cached-v1.6.25.zip:
+  object_id: 0d10452f-cc03-4aa1-abcc-fc28688f5d78
+  sha: 3bce8b1bd33153d545c373d25f677e5ce51cf53e
+  size: 273512071
