@@ -1,7 +1,6 @@
 ---
+final_name: ruby-buildpack
 blobstore:
-  final_name: ruby-buildpack-release
   provider: s3
   options:
     bucket_name: pivotal-buildpacks
-    folder: tmp/builpacks-release-blobs
