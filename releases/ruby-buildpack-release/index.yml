@@ -28,6 +28,4 @@ builds:
     version: 1.6.25
   15b00f97-abe4-4333-9db5-13706b95380f:
     version: 1.6.26
-  c2b13f20-8b25-4f81-a173-ae1f0b36459a:
-    version: 1.6.27
 format-version: '2'
