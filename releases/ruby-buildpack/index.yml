@@ -8,4 +8,6 @@ builds:
     version: 1.6.29
   6ffca490-f033-4399-a55a-61c6ebe6a027:
     version: 1.6.30
+  3c0df1c0-2dc0-4fef-a7f4-7cbe7260928f:
+    version: 1.6.32
 format-version: '2'
