@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby-buildpack-v1.6.40.zip:
-  object_id: d6c74303-401f-40ec-b600-2142704165cc
-  sha: 7cbd5fde52f8bb3ea85613ec8561fde2826fe9a3
-  size: 78619
+ruby-buildpack/ruby-buildpack-v1.6.41.zip:
+  object_id: db74fee1-b023-4fc3-a419-6435bde3b69a
+  sha: 626ff4b4bd1cb6d97c11d372b5a8a05a3cfb327f
+  size: 78834
