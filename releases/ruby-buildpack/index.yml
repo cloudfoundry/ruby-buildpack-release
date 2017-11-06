@@ -38,4 +38,6 @@ builds:
     version: 1.7.2
   9d5badac-48d9-4fc2-a11f-0d5baf2af35b:
     version: 1.7.3
+  5aca0acb-60ba-4922-a006-3463d115bbfa:
+    version: 1.7.5
 format-version: '2'
