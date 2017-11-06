@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby-buildpack-v1.7.3.zip:
-  object_id: 0732cc22-33a6-4d91-b5bb-f5059ed5b1ab
-  sha: 2f6c984dbf7848e8bc9bf434686f7a84cdf8b61e
-  size: 3904082
+ruby-buildpack/ruby-buildpack-v1.7.5.zip:
+  object_id: 3a137e78-a580-4376-8184-9f404500b8fd
+  sha: 014dfe8edea306c83149d71a4b3d10aa4e752f00
+  size: 3905914
