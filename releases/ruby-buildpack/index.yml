@@ -47,6 +47,8 @@ builds:
     version: 1.6.45
   de0d0c95-069a-432f-694b-6751b724c9f6:
     version: 1.7.13
+  e484318c-ec0c-448e-5535-8fa195f275e6:
+    version: 1.7.15
   eb2366f3-72fc-4eee-9bf2-199bb7f9d954:
     version: 1.6.27
 format-version: "2"
