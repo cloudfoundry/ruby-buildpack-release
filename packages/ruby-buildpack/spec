@@ -1,4 +1,0 @@
----
-name: ruby-buildpack
-files:
-- ruby-buildpack/ruby?buildpack-v*.zip
