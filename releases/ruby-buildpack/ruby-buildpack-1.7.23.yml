@@ -1,0 +1,24 @@
+name: ruby-buildpack
+version: 1.7.23
+commit_hash: 51b7359
+uncommitted_changes: false
+jobs:
+- name: ruby-buildpack
+  version: d9d44a16b06f88607fbc26e8c4c430b8469dd5d3
+  fingerprint: d9d44a16b06f88607fbc26e8c4c430b8469dd5d3
+  sha1: 083b38e893a14f343199f3d76a265081fd0b9fa8
+packages:
+- name: ruby-buildpack-cflinuxfs2
+  version: 8b347b819b7d997e3a3e0b87cc1bece64dfd2830
+  fingerprint: 8b347b819b7d997e3a3e0b87cc1bece64dfd2830
+  sha1: 008284479a1b2bf46397f4ba25bc7713b44fc197
+  dependencies: []
+- name: ruby-buildpack-cflinuxfs3
+  version: 1855b06756193bfd17515422b013b9d6b19ab4ed
+  fingerprint: 1855b06756193bfd17515422b013b9d6b19ab4ed
+  sha1: 2681bbda7dcfe36ba02eab75a21706d9a56f696f
+  dependencies: []
+license:
+  version: 0885a6e67c5db5d676feed7ee3bd2940c4c211a2
+  fingerprint: 0885a6e67c5db5d676feed7ee3bd2940c4c211a2
+  sha1: 93b5b58b28f86553c1807069275c25c81d89ca2d
