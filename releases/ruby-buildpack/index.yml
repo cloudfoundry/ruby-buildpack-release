@@ -13,6 +13,8 @@ builds:
     version: 1.6.34
   3c0df1c0-2dc0-4fef-a7f4-7cbe7260928f:
     version: 1.6.32
+  42ba4c0b-c49f-4aa6-79bf-0fdea350acb1:
+    version: 1.7.40
   4467ae50-7f66-4933-bcec-bb85dbe2f03a:
     version: 1.6.43
   496beee0-b42d-4801-7762-a147df95d48c:
