@@ -3,7 +3,6 @@ name: ruby-buildpack
 templates: {}
 
 packages:
-- ruby-buildpack-cflinuxfs2
 - ruby-buildpack-cflinuxfs3
 
 properties: {}
