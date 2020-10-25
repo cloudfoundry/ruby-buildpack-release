@@ -1,0 +1,21 @@
+name: ruby-buildpack
+version: 1.8.26
+commit_hash: d2ea6a5
+uncommitted_changes: false
+jobs:
+- name: ruby-buildpack
+  version: 34b327c16858feb62bf01fb709cab48e2e5f31f2596f74af80c2a9e1a53e8a9a
+  fingerprint: 34b327c16858feb62bf01fb709cab48e2e5f31f2596f74af80c2a9e1a53e8a9a
+  sha1: sha256:c5895b6a78576f18f07ab6f58404db045185ebb80143cc9b37102b2174d29129
+  packages:
+  - ruby-buildpack-cflinuxfs3
+packages:
+- name: ruby-buildpack-cflinuxfs3
+  version: bb9dc4f42d988eb7e9769db484fc4981cb3ae1c7afa248e8a797cffc7da90a51
+  fingerprint: bb9dc4f42d988eb7e9769db484fc4981cb3ae1c7afa248e8a797cffc7da90a51
+  sha1: sha256:317c79e1261031426ce8a74b7d3f01374a9709588d345d216c95b0b2053e0a88
+  dependencies: []
+license:
+  version: 01940e99a104ead4cef1a1b335a160adc5c1d52f4c4d4ac4f4b507cb146fe3bb
+  fingerprint: 01940e99a104ead4cef1a1b335a160adc5c1d52f4c4d4ac4f4b507cb146fe3bb
+  sha1: sha256:320db439331ec6b795d52a8bc4d10e487a6f6f760aa92a740a9ef2f84c019584
