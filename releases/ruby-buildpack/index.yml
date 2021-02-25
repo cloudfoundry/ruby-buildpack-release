@@ -121,6 +121,8 @@ builds:
     version: 1.7.19
   f25da443-de30-484f-628e-67b28a438779:
     version: 1.7.21
+  f7904f67-731c-499a-5cd5-faf531ffb424:
+    version: 1.8.32
   fc639315-a57f-49cd-5566-96dd0dbe3e37:
     version: 1.8.26
 format-version: "2"
