@@ -1,4 +1,4 @@
-ruby-buildpack/ruby_buildpack-cflinuxfs3-v1.8.48.zip:
-  size: 3960737
-  object_id: 8e6ca357-90d5-4b0c-5d87-ad90bb613188
-  sha: sha256:9562bc909535a30a2de9f8ff4e1873f74948b2c90301afc7c992046b9a4f1542
+ruby-buildpack/ruby_buildpack-cflinuxfs3-v1.8.49.zip:
+  size: 3961086
+  object_id: 253aaf3b-5f68-4f54-45b7-a26c68cee507
+  sha: sha256:52d724b60d6832e8904cf9d1b4302560e8913ed48427b6a336c542004007ab79
