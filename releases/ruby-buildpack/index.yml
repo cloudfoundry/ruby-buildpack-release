@@ -175,4 +175,6 @@ builds:
     version: 1.8.32
   fc639315-a57f-49cd-5566-96dd0dbe3e37:
     version: 1.8.26
+  fcc49f31-d413-406b-529f-f8791d261c76:
+    version: 1.8.60
 format-version: "2"
