@@ -4,5 +4,6 @@ templates: {}
 
 packages:
 - ruby-buildpack-cflinuxfs3
+- ruby-buildpack-cflinuxfs4
 
 properties: {}
