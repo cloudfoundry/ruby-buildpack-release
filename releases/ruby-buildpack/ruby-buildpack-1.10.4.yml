@@ -1,0 +1,27 @@
+name: ruby-buildpack
+version: 1.10.4
+commit_hash: e6ba7bc
+uncommitted_changes: false
+jobs:
+- name: ruby-buildpack
+  version: 97e2d45cbee0596f1fe87b2c0f69a2f36cc70cb5f4b933f97892b8e6af99eac0
+  fingerprint: 97e2d45cbee0596f1fe87b2c0f69a2f36cc70cb5f4b933f97892b8e6af99eac0
+  sha1: sha256:d3a9896cbe490e1e1810e19996516552c4e4f16d6dc554cdfdf62c82576161aa
+  packages:
+  - ruby-buildpack-cflinuxfs3
+  - ruby-buildpack-cflinuxfs4
+packages:
+- name: ruby-buildpack-cflinuxfs3
+  version: 041927c598e250a66c7a573e9741a785a1c334a8aae966d0ebfa00ac746ddb5c
+  fingerprint: 041927c598e250a66c7a573e9741a785a1c334a8aae966d0ebfa00ac746ddb5c
+  sha1: sha256:3fd5a6461d7013d1bf4844e0c6a174262d5a55ed3b3c7501cce414477f9eadb6
+  dependencies: []
+- name: ruby-buildpack-cflinuxfs4
+  version: f0607b2d3283df939704e7162bcdf0242caeb439dac46d87d5a569c44d63e9f8
+  fingerprint: f0607b2d3283df939704e7162bcdf0242caeb439dac46d87d5a569c44d63e9f8
+  sha1: sha256:926894f4911a1fafd967ff0961ceb5229fed458d39f92d0414c8cd65621f2b3e
+  dependencies: []
+license:
+  version: 01940e99a104ead4cef1a1b335a160adc5c1d52f4c4d4ac4f4b507cb146fe3bb
+  fingerprint: 01940e99a104ead4cef1a1b335a160adc5c1d52f4c4d4ac4f4b507cb146fe3bb
+  sha1: sha256:320db439331ec6b795d52a8bc4d10e487a6f6f760aa92a740a9ef2f84c019584
