@@ -1,2 +1,0 @@
-    set -e -x
-    cp ruby-buildpack/ruby?buildpack-*.zip ${BOSH_INSTALL_TARGET}
