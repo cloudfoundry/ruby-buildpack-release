@@ -23,6 +23,8 @@ builds:
     version: 1.10.19
   15cc25d4-7217-4c61-77ad-edf1f5a629a1:
     version: 1.8.40
+  18e51162-6dbf-45b5-5828-5d61cb26c6d4:
+    version: 1.10.28
   1a8941c7-71b8-4ec8-86aa-9fdcecffce47:
     version: 1.6.41
   1b9be841-1be0-4444-7559-db535d99ffee:
