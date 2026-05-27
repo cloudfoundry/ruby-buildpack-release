@@ -1,0 +1,4 @@
+---
+name: ruby-buildpack-cflinuxfs5
+files:
+- ruby-buildpack/ruby?buildpack-cflinuxfs5-*.zip
